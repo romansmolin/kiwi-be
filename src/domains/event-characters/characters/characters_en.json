@@ -1,0 +1,50 @@
+{
+    "characters": [
+      {
+        "name": "Troll",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803809/Troll_vkblcv.png",
+        "description": "A troll that will make everyone laugh with his antics and fun stories!"
+      },
+      {
+        "name": "Winged Unicorn",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803794/Edinorog_rb9gb1.png",
+        "description": "A magical winged unicorn that will bring fairy tale and magic to your celebration!"
+      },
+      {
+        "name": "Fixies",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803795/fiksiki_deswix.png",
+        "description": "The Fixies are always ready to fix any toy and set up a fun game!"
+      },
+      {
+        "name": "Racer",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803793/Driver_zagajf.png",
+        "description": "A racer who will arrange thrilling races and competitions for everyone!"
+      },
+      {
+        "name": "Spider-Man",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803803/Pauk_m7jnl5.png",
+        "description": "Spider-Man will save the party and show off cool webs and tricks!"
+      },
+      {
+        "name": "Transformer",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/super_oqltcu.png",
+        "description": "A Transformer who will amaze everyone with his transformations and protect all the guests!"
+      },
+      {
+        "name": "Pirates",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/pirat_urfxhu.png",
+        "description": "Pirates who will set up a true sea adventure and treasure hunt!"
+      },
+      {
+        "name": "Superman",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/super_oqltcu.png",
+        "description": "Superman who will bring superpower and unforgettable adventures to your celebration!"
+      },
+      {
+        "name": "Hunter and Dinosaur",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "Hunter and dinosaur who will show an exciting story from the past!"
+      }
+    ]
+  }
+  

@@ -1,0 +1,49 @@
+{
+    "characters": [
+        {
+            "name": "Troļļi",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803809/Troll_vkblcv.png",
+            "description": "Troļļi, kas padarīs visus smejus ar saviem jokiem un jautrajām stāstiem!"
+        },
+        {
+            "name": "Vienradzis ar spārniem",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803794/Edinorog_rb9gb1.png",
+            "description": "Maģisks vienradzis ar spārniem, kas atnesīs pasaku un burvību jūsu svētkos!"
+        },
+        {
+            "name": "Fixiki",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803795/fiksiki_deswix.png",
+            "description": "Fixiki vienmēr ir gatavi salabot jebkuru rotaļlietu un sarīkot jautru spēli!"
+        },
+        {
+            "name": "Sacīkšu braucējs",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803793/Driver_zagajf.png",
+            "description": "Sacīkšu braucējs, kas rīkos aizraujošas sacīkstes un konkursus visiem!"
+        },
+        {
+            "name": "Zirnekļcilvēks",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803803/Pauk_m7jnl5.png",
+            "description": "Zirnekļcilvēks izglābs ballīti un parādīs foršas tīmekļu un triku demonstrācijas!"
+        },
+        {
+            "name": "Transformers",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/super_oqltcu.png",
+            "description": "Transformers, kas pārsteigs visus ar saviem pārvērtībām un aizsargās visus viesus!"
+        },
+        {
+            "name": "Pirāti",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/pirat_urfxhu.png",
+            "description": "Pirāti, kas sarīkos īstu jūras piedzīvojumu un dārgumu meklējumus!"
+        },
+        {
+            "name": "Supermens",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/super_oqltcu.png",
+            "description": "Supermens, kas atnesīs supervaru un neaizmirstamus piedzīvojumus jūsu svētkos!"
+        },
+        {
+            "name": "Mednieks un dinozaurs",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Mednieks un dinozaurs, kas parādīs aizraujošu stāstu no pagātnes!"
+        }
+    ]
+}
