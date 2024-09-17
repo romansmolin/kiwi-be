@@ -1,49 +1,169 @@
 {
-    "characters": [
-        {
-            "name": "Тролль",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803809/Troll_vkblcv.png",
-            "description": "Тролль, который заставит всех смеяться своими проделками и веселыми историями!"
-        },
-        {
-            "name": "Единорог с крыльями",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803794/Edinorog_rb9gb1.png",
-            "description": "Магический единорог с крыльями, который принесет сказку и волшебство на ваш праздник!"
-        },
-        {
-            "name": "Фиксики",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803795/fiksiki_deswix.png",
-            "description": "Фиксики всегда готовы починить любую игрушку и устроить веселую игру!"
-        },
-        {
-            "name": "Гонщик",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803793/Driver_zagajf.png",
-            "description": "Гонщик, который устроит захватывающие гонки и соревнования для всех!"
-        },
-        {
-            "name": "Человек-паук",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803803/Pauk_m7jnl5.png",
-            "description": "Человек-паук спасет праздник и покажет крутые паутины и трюки!"
-        },
-        {
-            "name": "Трансформер",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/super_oqltcu.png",
-            "description": "Трансформер, который удивит всех своими превращениями и защитит всех гостей!"
-        },
-        {
-            "name": "Пираты",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/pirat_urfxhu.png",
-            "description": "Пираты, которые устроят настоящее морское приключение и поиск сокровищ!"
-        },
-        {
-            "name": "Супермен",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/super_oqltcu.png",
-            "description": "Супермен, который принесет суперсилу и незабываемые приключения на ваш праздник!"
-        },
-        {
-            "name": "Охотник и динозавр",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
-            "description": "Охотник и динозавр, которые покажут захватывающую историю из прошлого!"
-        }
-    ]
+  "characters": [
+    {
+      "name": "Человек-паук",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575177/IMG_3796_pvcom2.png",
+      "description": "Ловкий и бесстрашный Человек Паук – популярный и всем известный супергерой, кумир всех детей, которые стремятся быть похожими на него."
+    },
+    {
+      "name": "Пираты",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/pirat_urfxhu.png",
+      "description": "Пираты, которые устроят настоящее морское приключение и поиск сокровищ!"
+    },
+    {
+      "name": "Охотник и динозавр",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "Это образовательно-развлекательная программа с элементами квеста. Дети отправляются на поиски подсказок, каждая из которых приведет к увлекательным заданиям. Цель - разгадать все загадки и оживить настоящего Динозавра!"
+    },
+    {
+      "name": "Белоснежка",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "Добрая и бесконечно приветливая героиня диснеевского мультфильма."
+    },
+    {
+      "name": "Зайка",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "Наш зайка прыгал по волшебному лесу и случайно прискакал к ребятам на праздник. Теперь вместе с детишками он отправится в настоящее удивительное путешествие."
+    },
+    {
+      "name": "Трансформер Бамблби",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "Бамблби – это один из самых отважных и подвижных автоботов. Этот трансформер наделен многими человеческими качествами. Он любит улыбаться, петь и танцевать."
+    },
+    {
+      "name": "Гонщик (Чейз)",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "Вместе с Гонщиком дети смогут стать смелыми героями спасательной команды и играя преодолеют множество препятствий."
+    },
+    {
+      "name": "Единорог с крыльями",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "Единороги с крыльями живут в сказочной стране. Они приносят счастье и умеют исполнять самые заветные желания."
+    },
+    {
+      "name": "Фиксики",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "Фиксики Симка и Нолик и Шпуля порадуют вашего малыша невероятными приключениями. А кто такие Фиксики? Большой-Большой секрет?? А вот и нет!"
+    },
+    {
+      "name": "Сафари",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "Это образовательно-развлекательная программа с элементами квеста, где дети разгадывают загадки, чтобы оживить настоящего динозавра!"
+    },
+    {
+      "name": "Эльза",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "Эльза — королева Эренделла, от рождения обладающая даром создавать снег и лед совсем не даст заскучать вашему ребенку."
+    },
+    {
+      "name": "Пират",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "Вместе с Пиратом гости праздника отправятся навстречу пиратским приключениям и пройдут множество испытаний."
+    },
+    {
+      "name": "Супермен",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "Аниматор Супермен проведет ребят через школу супергероев, чтобы они помогли справиться со злодеями."
+    },
+    {
+      "name": "Игра в кальмара",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "По мотивам сериала подготовлен выездной квест «Игра в кальмара» и одноимённая анимационная программа."
+    },
+    {
+      "name": "Мини Маус",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "Любимица всех ребят — озорная Мини. Она уже более полувека известна каждому!"
+    },
+    {
+      "name": "Карамелька",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "Карамелька – смелая, энергичная и веселая героиня, которая развеселит любого на детском празднике."
+    },
+    {
+      "name": "Железный человек",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "Железный человек собирает новых Мстителей и готовится спасать мир от злодеев."
+    },
+    {
+      "name": "Кукутики",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+      "description": "Милые и добрые персонажи Кукутики наполнят детский праздник веселыми песенками."
+    },
+    {
+      "name": "Леди Баг",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575188/IMG_5222_dzbnte.png",
+      "description": "Веселая и смелая Маринетт, известная как Леди Баг, уже спешит на праздник!"
+    },
+    {
+      "name": "Кукла Лол",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575188/IMG_5223_kejmx2.png",
+      "description": "Яркая, эффектная и жизнерадостная кукла LOL – современный любимый анимационный персонаж."
+    },
+    {
+      "name": "Черепашка Ниндзя",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575188/IMG_5232_eqomup.png",
+      "description": "Вместе с черепашкой Микеланджело гости примут участие в необычной игровой программе."
+    },
+    {
+      "name": "Розовый единорог",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575189/IMG_5233_by8uvw.png",
+      "description": "День Рождения в стиле Единорожек – праздник, окутанный добрым волшебством и сказочными приключениями."
+    },
+    {
+      "name": "Тик Ток",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575189/IMG_5234_jkvtts.png",
+      "description": "Вместе мы создадим Tik Tok House! Участников ждут челленджи, игры и танцы!"
+    },
+    {
+      "name": "Супер Вумен",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575189/IMG_5235_sa7tz7.png",
+      "description": "Супер Вумен – верная соратница Супермена, сильная и веселая героиня."
+    },
+    {
+      "name": "Медвежонок",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575189/IMG_5236_wgqiru.png",
+      "description": "Самый плюшевый персонаж — милый и веселый медвежонок, который никого не оставит равнодушным."
+    },
+    {
+      "name": "Венсдей",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575182/IMG_5021_emcpvu.png",
+      "description": "Загадочная девочка из семьи Аддамсов. Обладает экстрасенсорными способностями, благодаря которым становится еще увлекательнее и загадочнее."
+    },
+    {
+      "name": "Единорог",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575182/IMG_5040_u1hfhw.png",
+      "description": "Единорог будет создавать праздничное настроение и никого не оставит равнодушным на вашем празднике."
+    },
+    {
+      "name": "Кукла лол Единорожка",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575179/IMG_5033_ejllvg.png",
+      "description": "Милая эпатажная единорожка, которая стала очень популярной у девочек, так как с помощью этой модницы они могут реализовать любую свою креативную идею."
+    },
+    {
+      "name": "Золушка",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575178/IMG_5042_pcanhw.png",
+      "description": "Невзрачная падчерица найдет волшебную корону на вашем празднике и превратится в шикарную принцессу."
+    },
+    {
+      "name": "Фея",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575178/IMG_5090_ltarl8.png",
+      "description": "Удивительный и волшебный праздник, в гостях у доброй и прелестной Феи."
+    },
+    {
+      "name": "Пинки Пай",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575179/IMG_5155_mnvhd8.png",
+      "description": "Очаровательную Пинки Пай просто обожают за игривый и добродушный нрав, а каждый малыш мечтает познакомиться с ней лично."
+    },
+    {
+      "name": "Индеец",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575178/IMG_8203_hwoopi.png",
+      "description": "Многие поколения любили и любят играть в индейцев. Про то как дети и даже некоторые взрослые играют в индейцев были написаны целые книги и сняты фильмы."
+    },
+    {
+      "name": "Тролль Розочка",
+      "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575177/IMG_3783_ggneqq.png",
+      "description": "Розочка хорошо знакома каждому ребенку. Тролль с прекрасным именем Розочка – это олицетворение веселой, забавной, милой и наивной девочки."
+    }
+  ]
 }

@@ -1,49 +1,169 @@
 {
     "characters": [
         {
-            "name": "Troļļi",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803809/Troll_vkblcv.png",
-            "description": "Troļļi, kas padarīs visus smejus ar saviem jokiem un jautrajām stāstiem!"
+            "name": "Cilvēks Zirneklis",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575177/IMG_3796_pvcom2.png",
+            "description": "Viltīgais un bezbailīgais Cilvēks Zirneklis – populārs un visiem zināms supervaronis, visu bērnu elks, kas vēlas būt līdzīgi viņam."
         },
         {
-            "name": "Vienradzis ar spārniem",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803794/Edinorog_rb9gb1.png",
-            "description": "Maģisks vienradzis ar spārniem, kas atnesīs pasaku un burvību jūsu svētkos!"
-        },
-        {
-            "name": "Fixiki",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803795/fiksiki_deswix.png",
-            "description": "Fixiki vienmēr ir gatavi salabot jebkuru rotaļlietu un sarīkot jautru spēli!"
-        },
-        {
-            "name": "Sacīkšu braucējs",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803793/Driver_zagajf.png",
-            "description": "Sacīkšu braucējs, kas rīkos aizraujošas sacīkstes un konkursus visiem!"
-        },
-        {
-            "name": "Zirnekļcilvēks",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803803/Pauk_m7jnl5.png",
-            "description": "Zirnekļcilvēks izglābs ballīti un parādīs foršas tīmekļu un triku demonstrācijas!"
-        },
-        {
-            "name": "Transformers",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/super_oqltcu.png",
-            "description": "Transformers, kas pārsteigs visus ar saviem pārvērtībām un aizsargās visus viesus!"
-        },
-        {
-            "name": "Pirāti",
+            "name": "Pirati",
             "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/pirat_urfxhu.png",
-            "description": "Pirāti, kas sarīkos īstu jūras piedzīvojumu un dārgumu meklējumus!"
-        },
-        {
-            "name": "Supermens",
-            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/super_oqltcu.png",
-            "description": "Supermens, kas atnesīs supervaru un neaizmirstamus piedzīvojumus jūsu svētkos!"
+            "description": "Pirati, kas radīs īstu jūras piedzīvojumu un dārgumu meklēšanu!"
         },
         {
             "name": "Mednieks un dinozaurs",
             "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
-            "description": "Mednieks un dinozaurs, kas parādīs aizraujošu stāstu no pagātnes!"
+            "description": "Tā ir izglītojoša un izklaidējoša programma ar kvestu elementiem. Bērni dodas uz norāžu meklēšanu, un katra no tām ved uz aizraujošiem uzdevumiem. Mērķis - atrisināt visas mīklas un atdzīvināt īstu dinozauru!"
+        },
+        {
+            "name": "Sniegbaltīte",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Labestīga un nebeidzami draudzīga Disneja multfilmas varone."
+        },
+        {
+            "name": "Zaķītis",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Mūsu zaķītis lēkāja pa burvju mežu un nejauši nokļuva bērnu ballītē. Tagad viņš kopā ar bērniem dosies patiesi aizraujošā ceļojumā."
+        },
+        {
+            "name": "Transformers Bumbelbijas",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Bumbelbijas ir viens no drosmīgākajiem un veiklākajiem autobotiem. Šis transformers ir apveltīts ar daudzām cilvēciskām īpašībām. Viņam patīk smaidīt, dziedāt un dejot."
+        },
+        {
+            "name": "Sacīkšu braucējs (Čeizs)",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Kopā ar Čeizu bērni var kļūt par drosmīgiem glābšanas komandas varoņiem un, spēlējoties, pārvarēs daudz šķēršļu."
+        },
+        {
+            "name": "Vienradzis ar spārniem",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Vienradži ar spārniem dzīvo pasaku zemē. Viņi nes laimi un prot piepildīt visslēptākos sapņus."
+        },
+        {
+            "name": "Fiksiki",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Fiksiki Simka un Noliks un Špūļa iepriecinās jūsu mazuli ar neticamiem piedzīvojumiem. Bet kas ir Fiksiki? Liels-liels noslēpums? Nē, tieši pretēji!"
+        },
+        {
+            "name": "Safari",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Izglītojoša un izklaidējoša programma ar kvestu elementiem, kur bērni risina mīklas, lai atdzīvinātu īstu dinozauru!"
+        },
+        {
+            "name": "Elza",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Elza — Erendellas karaliene, no dzimšanas apveltīta ar spēju radīt sniegu un ledu, noteikti neļaus jūsu bērnam garlaikoties."
+        },
+        {
+            "name": "Pirāts",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Kopā ar Pirātu svētku viesi dosies uz pirātu piedzīvojumiem un izies daudzus pārbaudījumus."
+        },
+        {
+            "name": "Supermens",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Animators Supermens vadīs bērnus caur supervaroņu skolu, lai viņi palīdzētu uzveikt ļaundarus."
+        },
+        {
+            "name": "Kalmāru spēle",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Pamatojoties uz seriālu, ir sagatavots izbraukuma kvests «Kalmāru spēle» un tāda paša nosaukuma animācijas programma."
+        },
+        {
+            "name": "Mini Mausa",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Visu bērnu iemīļotā nerātne Mini Mausa. Jau vairāk nekā pusgadsimtu viņu pazīst visi!"
+        },
+        {
+            "name": "Karamelka",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Karamelka – drosmīga, enerģiska un jautra varone, kas izklaidēs jebkuru bērnu ballītē."
+        },
+        {
+            "name": "Dzelzs cilvēks",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Dzelzs cilvēks veido jaunu Atriebēju komandu un gatavojas glābt pasauli no ļaundariem."
+        },
+        {
+            "name": "Kukutiki",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+            "description": "Mīļie un labestīgie Kukutiki tēli piepildīs bērnu ballīti ar jautrām dziesmiņām."
+        },
+        {
+            "name": "Ledi Buga",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575188/IMG_5222_dzbnte.png",
+            "description": "Jautrā un drosmīgā Marineta, pazīstama kā Ledi Buga, jau steidzas uz ballīti!"
+        },
+        {
+            "name": "Lelle Lol",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575188/IMG_5223_kejmx2.png",
+            "description": "Koša, efektīga un dzīvespriecīga lelle LOL – mūsdienīgs populārs animācijas varonis."
+        },
+        {
+            "name": "Bruņurupucis Ninza",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575188/IMG_5232_eqomup.png",
+            "description": "Kopā ar bruņurupuci Mikelandželo viesi piedalīsies neparastā spēļu programmā."
+        },
+        {
+            "name": "Rozā vienradzis",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575189/IMG_5233_by8uvw.png",
+            "description": "Dzimšanas dienas ballīte vienradžu stilā – svētki, kas ieskauts labestīgā burvībā un pasaku piedzīvojumos."
+        },
+        {
+            "name": "Tik Toks",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575188/IMG_5232_eqomup.png",
+            "description": "Moderna varone – TikToka zvaigzne, piedalās dzimšanas dienas tēmā."
+        },
+        {
+            "name": "Super Wumen",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575189/IMG_5235_sa7tz7.png",
+            "description": "Super Wumen ir uzticama Supermena sabiedrotā, stipra un jautra varone."
+        },
+        {
+            "name": "Lācītis",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575189/IMG_5236_wgqiru.png",
+            "description": "Vismīlīgākais un pūkainākais varonis – jauks un jautrs lācītis, kas neatstās nevienu vienaldzīgu."
+        },
+        {
+            "name": "Vensdeja",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575182/IMG_5021_emcpvu.png",
+            "description": "Noslēpumainā meitene no Adamsu ģimenes, apveltīta ar ekstrasensorām spējām, kas padara viņu vēl aizraujošāku un noslēpumaināku."
+        },
+        {
+            "name": "Vienradzis",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575182/IMG_5040_u1hfhw.png",
+            "description": "Vienradzis radīs svētku atmosfēru un noteikti neaizmirsīs nevienu jūsu ballītē."
+        },
+        {
+            "name": "Lelle LOL Vienradzīte",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575179/IMG_5033_ejllvg.png",
+            "description": "Mīļa un koša vienradzīte, kas kļuvusi ļoti populāra starp meitenēm, jo viņa palīdz piepildīt jebkuru radošo ideju."
+        },
+        {
+            "name": "Pelnrušķīte",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575178/IMG_5042_pcanhw.png",
+            "description": "Nevainīgā pameita atradīs burvju kroni jūsu svētkos un pārvērtīsies par izsmalcinātu princesi."
+        },
+        {
+            "name": "Feja",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575178/IMG_5090_ltarl8.png",
+            "description": "Brīnumainie un burvju svētki kopā ar laipno un brīnišķīgo Feju."
+        },
+        {
+            "name": "Pinki Paja",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575179/IMG_5155_mnvhd8.png",
+            "description": "Apburošā Pinki Paja ir mīļa, rotaļīga un draudzīga, viņu mīl katrs bērns, un daudzi sapņo satikt viņu personīgi."
+        },
+        {
+            "name": "Indiānis",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575178/IMG_8203_hwoopi.png",
+            "description": "Daudzas paaudzes ir spēlējušas indiāņus. Par to, kā bērni un pat daži pieaugušie spēlē indiāņus, ir rakstītas grāmatas un uzņemtas filmas."
+        },
+        {
+            "name": "Trollītis Rozīte",
+            "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575177/IMG_3783_ggneqq.png",
+            "description": "Rozīte ir labi pazīstama katram bērnam. Trollītis ar brīnišķīgu vārdu Rozīte ir jautra, mīļa un naiva meitene."
         }
     ]
 }

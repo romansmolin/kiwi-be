@@ -1,49 +1,169 @@
 {
     "characters": [
       {
-        "name": "Troll",
-        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803809/Troll_vkblcv.png",
-        "description": "A troll that will make everyone laugh with his antics and fun stories!"
-      },
-      {
-        "name": "Winged Unicorn",
-        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803794/Edinorog_rb9gb1.png",
-        "description": "A magical winged unicorn that will bring fairy tale and magic to your celebration!"
-      },
-      {
-        "name": "Fixies",
-        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803795/fiksiki_deswix.png",
-        "description": "The Fixies are always ready to fix any toy and set up a fun game!"
-      },
-      {
-        "name": "Racer",
-        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803793/Driver_zagajf.png",
-        "description": "A racer who will arrange thrilling races and competitions for everyone!"
-      },
-      {
         "name": "Spider-Man",
-        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803803/Pauk_m7jnl5.png",
-        "description": "Spider-Man will save the party and show off cool webs and tricks!"
-      },
-      {
-        "name": "Transformer",
-        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/super_oqltcu.png",
-        "description": "A Transformer who will amaze everyone with his transformations and protect all the guests!"
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575177/IMG_3796_pvcom2.png",
+        "description": "Agile and fearless, Spider-Man is a popular and well-known superhero, adored by children who aspire to be like him."
       },
       {
         "name": "Pirates",
         "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/pirat_urfxhu.png",
-        "description": "Pirates who will set up a true sea adventure and treasure hunt!"
-      },
-      {
-        "name": "Superman",
-        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803804/super_oqltcu.png",
-        "description": "Superman who will bring superpower and unforgettable adventures to your celebration!"
+        "description": "Pirates who will create a real sea adventure and a treasure hunt!"
       },
       {
         "name": "Hunter and Dinosaur",
         "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
-        "description": "Hunter and dinosaur who will show an exciting story from the past!"
+        "description": "This is an educational-entertainment program with quest elements. Children will embark on a journey to find clues, each leading to exciting tasks. The goal is to solve all the puzzles and bring a real Dinosaur to life!"
+      },
+      {
+        "name": "Snow White",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "The kind and endlessly friendly heroine of the Disney cartoon."
+      },
+      {
+        "name": "Bunny",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "Our bunny hopped through the magical forest and accidentally arrived at the children's party. Now, together with the kids, he will embark on a real, amazing journey."
+      },
+      {
+        "name": "Transformer Bumblebee",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "Bumblebee is one of the most brave and agile Autobots. This Transformer has many human qualities. He loves to smile, sing, and dance."
+      },
+      {
+        "name": "Chase (Racer)",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "Together with Chase, children can become brave heroes of the rescue team, overcoming many obstacles through play."
+      },
+      {
+        "name": "Winged Unicorn",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "Winged unicorns live in a fairy-tale land. They bring happiness and can make the most cherished wishes come true."
+      },
+      {
+        "name": "Fixies",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "Fixies Simka, Nolik, and Shpula will delight your little one with incredible adventures. And who are Fixies? A Big-Big Secret?? Not at all!"
+      },
+      {
+        "name": "Safari",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "This is an educational-entertainment program with quest elements where children solve puzzles to bring a real dinosaur to life!"
+      },
+      {
+        "name": "Elsa",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "Elsa, the Queen of Arendelle, born with the gift of creating snow and ice, will make sure your child never gets bored."
+      },
+      {
+        "name": "Pirate",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "Together with the Pirate, the party guests will embark on pirate adventures and overcome many challenges."
+      },
+      {
+        "name": "Superman",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "The Superman animator will guide the children through superhero school so they can help fight the villains."
+      },
+      {
+        "name": "Squid Game",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "Based on the series, we have prepared an outdoor quest 'Squid Game' and an animation program of the same name."
+      },
+      {
+        "name": "Minnie Mouse",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "Everyone’s favorite – the mischievous Minnie. She has been known to everyone for over half a century!"
+      },
+      {
+        "name": "Caramelka",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "Caramelka is a brave, energetic, and fun character who will cheer up everyone at the children's party."
+      },
+      {
+        "name": "Iron Man",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "Iron Man is gathering new Avengers and preparing to save the world from villains."
+      },
+      {
+        "name": "Kukutiki",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1718803792/dino_puf7tl.png",
+        "description": "The cute and kind Kukutiki characters will fill the children's party with fun songs."
+      },
+      {
+        "name": "Ladybug",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575188/IMG_5222_dzbnte.png",
+        "description": "The cheerful and brave Marinette, known as Ladybug, is already on her way to the party!"
+      },
+      {
+        "name": "LOL Doll",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575188/IMG_5223_kejmx2.png",
+        "description": "The bright, lively, and cheerful LOL doll is a modern favorite animation character."
+      },
+      {
+        "name": "Ninja Turtle",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575188/IMG_5232_eqomup.png",
+        "description": "Together with the turtle Michelangelo, the guests will participate in an unusual game program."
+      },
+      {
+        "name": "Pink Unicorn",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575189/IMG_5233_by8uvw.png",
+        "description": "A birthday party in the Unicorn style – an event wrapped in good magic and fairy-tale adventures."
+      },
+      {
+        "name": "TikTok",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575189/IMG_5234_jkvtts.png",
+        "description": "Together, we'll create a TikTok House! Participants can enjoy challenges, games, and dancing!"
+      },
+      {
+        "name": "Superwoman",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575189/IMG_5235_sa7tz7.png",
+        "description": "Superwoman, a loyal companion of Superman, is a strong and cheerful heroine."
+      },
+      {
+        "name": "Teddy Bear",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575189/IMG_5236_wgqiru.png",
+        "description": "The fluffiest character – a cute and joyful teddy bear who will leave no one indifferent."
+      },
+      {
+        "name": "Wednesday",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575182/IMG_5021_emcpvu.png",
+        "description": "The mysterious girl from the Addams family. She has psychic abilities, making her even more captivating and mysterious."
+      },
+      {
+        "name": "Unicorn",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575182/IMG_5040_u1hfhw.png",
+        "description": "The unicorn will create a festive mood and leave no one indifferent at your party."
+      },
+      {
+        "name": "LOL Unicorn Doll",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575179/IMG_5033_ejllvg.png",
+        "description": "The lovely and stylish unicorn doll has become very popular among girls, as with this fashionista, they can unleash any creative idea."
+      },
+      {
+        "name": "Cinderella",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575178/IMG_5042_pcanhw.png",
+        "description": "The humble stepdaughter will find a magical crown at your party and transform into a gorgeous princess."
+      },
+      {
+        "name": "Fairy",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575178/IMG_5090_ltarl8.png",
+        "description": "A wonderful and magical party hosted by the kind and charming Fairy."
+      },
+      {
+        "name": "Pinkie Pie",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575179/IMG_5155_mnvhd8.png",
+        "description": "The delightful Pinkie Pie is loved for her playful and kind-hearted nature, and every child dreams of meeting her in person."
+      },
+      {
+        "name": "Indian",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575178/IMG_8203_hwoopi.png",
+        "description": "Many generations have loved playing as Indians. Books and movies have been made about how children, and even some adults, enjoy playing Indian games."
+      },
+      {
+        "name": "Troll Poppy",
+        "image": "https://res.cloudinary.com/dgh3hceyt/image/upload/v1726575177/IMG_3783_ggneqq.png",
+        "description": "Poppy is well-known to every child. The troll with the lovely name Poppy embodies a fun, playful, and innocent girl."
       }
     ]
   }
