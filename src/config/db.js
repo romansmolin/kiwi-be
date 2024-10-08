@@ -1,12 +1,11 @@
-// INFO: IN THIS FILE WE CAN CONFIGURE A CONNECTION WITH DB
-// BELOW IS SIMPLE EXAMPLE
+const mongoose = require("mongoose");
 
-// mongoose
-//     .connect(process.env.MONGODB_URI, {
-//         useNewUrlParser: true,
-//         useUnifiedTopology: true,
-//     })
-//     .then(() => {
-//         console.log("DB Connected")
-//     })
-//     .catch((err) => console.log('Error: ', err))
+mongoose
+  .connect(process.env.MONGODB_URI, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  })
+  .then(() => {
+    console.log("DB Connected");
+  })
+  .catch((err) => console.log("Error: ", err));
