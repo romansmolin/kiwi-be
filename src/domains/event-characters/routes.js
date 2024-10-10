@@ -1,44 +1,62 @@
-const express = require('express');
+const express = require("express");
 const router = express.Router();
 
-const characters_ru = require('./characters/characters_ru.json')
-const characters_lv = require('./characters/characters_lv.json')
-const characters_en = require('./characters/characters_en.json')
+const characters_ru = require("./characters/characters_ru.json");
+const characters_lv = require("./characters/characters_lv.json");
+const characters_en = require("./characters/characters_en.json");
 
 const intl_characters = {
-    lv: characters_lv,
-    ru: characters_ru,
-    en: characters_en
-}
-
+  lv: characters_lv,
+  ru: characters_ru,
+  en: characters_en,
+};
 
 router.get("/all-characters", async (req, res) => {
-    try {
-        const page = parseInt(req.query.page) || 1;
-        const limit = parseInt(req.query.limit) || 5;
-        const language = req.query.lang
-        const characters = intl_characters[language]?.characters
+  try {
+    const page = parseInt(req.query.page) || 1;
+    const limit = parseInt(req.query.limit) || 5;
+    const language = req.query.lang;
+    const characters = intl_characters[language]?.characters;
 
-        const total = characters.length;
-        const totalPages = Math.ceil(characters.length / limit);
-        const startIndex = (page - 1) * limit;
-        const endIndex = page * limit;
+    const total = characters.length;
+    const totalPages = Math.ceil(characters.length / limit);
+    const startIndex = (page - 1) * limit;
+    const endIndex = page * limit;
 
-        const results = {};
+    const results = {};
 
-        results.results = characters.slice(startIndex, endIndex);
+    results.results = characters.slice(startIndex, endIndex);
 
-        // We kind of receiving data from DB
-        res.status(200).json({
-            success: true,
-            message: 'Email sent successfully',
-            total, 
-            totalPages,
-            characters: results
-        })
-    } catch (err) {
-        res.status(500).json({ success: false, error: 'Failed to fetch characters: ', err })
-    }
-})
+    // We kind of receiving data from DB
+    res.status(200).json({
+      success: true,
+      message: "Email sent successfully",
+      total,
+      totalPages,
+      characters: results,
+    });
+  } catch (err) {
+    res
+      .status(500)
+      .json({ success: false, error: "Failed to fetch characters: ", err });
+  }
+});
 
-module.exports = router
+router.post("/create-character", async (req, res) => {
+  const token = req.cookies.authToken;
+
+  if (!token) {
+    res.status(401).json({ success: false, error: "Unauthorized" });
+  }
+
+  console.log("token: ", token);
+
+  try {
+  } catch (err) {
+    res
+      .status(500)
+      .json({ success: false, error: "Failed to create characters: ", err });
+  }
+});
+
+module.exports = router;
