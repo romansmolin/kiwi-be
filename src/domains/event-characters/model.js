@@ -3,13 +3,13 @@ const mongoose = require("mongoose");
 const CharacterSchema = new mongoose.Schema({
   name: {
     en: { type: String, required: true },
-    fr: { type: String, required: true },
-    es: { type: String, required: true },
+    ru: { type: String, required: true },
+    lv: { type: String, required: true },
   },
   description: {
     en: { type: String, required: true },
-    fr: { type: String, required: true },
-    es: { type: String, required: true },
+    ru: { type: String, required: true },
+    lv: { type: String, required: true },
   },
   image: {
     type: String,

@@ -8,9 +8,10 @@ const cookieParser = require("cookie-parser");
 const routes = require("./routes");
 
 //cors
-app.use(
+//kiwi-psi.vercel.app/
+https: app.use(
   cors({
-    origin: "http://localhost:3000", // Specify the origin
+    origin: ["http://localhost:3000", "https://kiwi-psi.vercel.app"],
     credentials: true, // Allow credentials
   })
 );
